@@ -65,7 +65,7 @@ export default function Home() {
                 How it Works
               </span>
             </h2>
-            <p className="text-gray-300 text-center mb-4">Add the URL of a webpage next to this site's URL, and you're ready to begin.</p>
+            <p className="text-gray-300 text-center mb-4">Add the URL of a webpage next to this site&apos;s URL, and you&apos;re ready to begin.</p>
             <div className="text-gray-300 text-center text-sm bg-gray-800 p-4 rounded-lg overflow-x-auto">
               <code>https://webask.com/https://example.com</code>
             </div>
