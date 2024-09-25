@@ -18,12 +18,12 @@ export default function Home() {
     return () => clearTimeout(timer);
   }, []);
 
-  useEffect(() => {
-    const interval = setInterval(() => {
-      setCurrentFeature((prev) => (prev + 1) % features.length);
-    }, 3000);
-    return () => clearInterval(interval);
-  }, []);
+ useEffect(() => {
+  const interval = setInterval(() => {
+    setCurrentFeature((prev) => (prev + 1) % features.length);
+  }, 3000);
+  return () => clearInterval(interval);
+}, [features.length]);
 
   return (
     <main
