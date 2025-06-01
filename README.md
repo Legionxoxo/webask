@@ -1,8 +1,70 @@
+---
+
+<h1 align="center">🧠 AI-Powered Webpage Q&A Platform</h1>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Framework-Next.js-black?style=flat&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/NLP-Enabled-4B8BBE?style=flat&logo=OpenAI&logoColor=white" />
+  <img src="https://img.shields.io/badge/UI%2FUX-Responsive-29B6F6?style=flat&logo=tailwindcss&logoColor=white" />
+</p>
+
+<p align="center">
+  <a href="https://your-live-demo-link.com"><strong>🌐 Live Demo</strong></a> •
+  <a href="https://github.com/yourusername/ai-webpage-qa"><strong>📦 Source Code</strong></a>
+</p>
+
+---
+
+## ✨ Features
+
+* 🔍 **URL-Based Content Parsing** — Input any webpage URL for content analysis
+* 🤖 **AI-Powered Q\&A** — Ask questions about the webpage’s content in real-time
+* 🧠 **Dynamic Data Extraction** — Parses page content using NLP for smart responses
+* ⚡ **Real-Time Responses** — Contextually accurate answers rendered instantly
+* 🎨 **Optimized Interface** — Clean, responsive UI for a seamless experience
+
+---
+
+## 📸 Final Result
+
+### 🔹 Landing Page
+
+![Landing page](https://github.com/user-attachments/assets/ea7eddc3-d522-4d65-a9de-4d5593a84baa)
+
+### 🔹 ChatBot Page
+
+![ChatBot page](https://github.com/user-attachments/assets/f711b887-41c4-4683-958d-7b5baf3eedcc)
+
+---
+
+## 🧱 Tech Stack
+
+| 🖥️ Frontend | 🧠 AI/NLP                 | 🎨 Styling        | ⚙️ Tooling         |
+| ------------ | ------------------------- | ----------------- | ------------------ |
+| **Next.js**  | **OpenAI API** / LLM      | Tailwind CSS      | TypeScript, Vercel |
+| React        | Custom Prompt Engineering | Responsive Design | Git, REST API      |
+
+---
+
+## 🚀 Getting Started
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Getting Started
+### 🛠️ Installation
 
-First, run the development server:
+```bash
+git clone https://github.com/yourusername/ai-webpage-qa.git
+cd ai-webpage-qa
+npm install
+```
+
+Create an `.env.local` file:
+
+```env
+OPENAI_API_KEY=your_api_key_here
+```
+
+### ✅ Run the Development Server
 
 ```bash
 npm run dev
@@ -14,32 +76,36 @@ pnpm dev
 bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Then open [http://localhost:3000](http://localhost:3000) in your browser to view the app.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+---
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+## 🧠 Learn More
 
-## Learn More
+* [Next.js Documentation](https://nextjs.org/docs) — Features, routing, deployment
+* [Learn Next.js](https://nextjs.org/learn) — Interactive beginner-friendly tutorial
+* [OpenAI API Docs](https://platform.openai.com/docs) — Learn how GPT models work
+* [Tailwind CSS Docs](https://tailwindcss.com/docs) — Utility-first styling
 
-To learn more about Next.js, take a look at the following resources:
+---
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## ☁️ Deploy on Vercel
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+The easiest way to deploy this app is via [Vercel](https://vercel.com/new), from the creators of Next.js.
+Refer to the [deployment documentation](https://nextjs.org/docs/deployment) for custom environments.
 
-## Deploy on Vercel
+---
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## 🙏 Acknowledgements
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Thanks to the open-source ecosystem, especially **OpenAI**, **Vercel**, and the **Next.js** community, for making powerful web applications easier to build and scale.
 
-## Final Result
-Landing page
-![webask](https://github.com/user-attachments/assets/ea7eddc3-d522-4d65-a9de-4d5593a84baa)
+---
 
-ChatBot page 
-![Screenshot 2024-10-30 025026](https://github.com/user-attachments/assets/f711b887-41c4-4683-958d-7b5baf3eedcc)
+## 🤝 Contact
 
+* 📧 Email: [shivendrachandel3@gmail.com](mailto:shivendrachandel3@gmail.com)
+* 💻 GitHub: [github.com/Legionxoxo](https://github.com/Legionxoxo)
+* 🔗 LinkedIn: [linkedin.com/in/shiv04singh](https://www.linkedin.com/in/shiv04singh)
 
+---
