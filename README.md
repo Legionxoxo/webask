@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://your-live-demo-link.com"><strong>🌐 Live Demo</strong></a> •
+  <a href="https://your-live-demo-link.com"><strong>🌐 Live Demo</strong></a> 
 </p>
 
 ---
@@ -92,8 +92,6 @@ Then open [http://localhost:3000](http://localhost:3000) in your browser to view
 
 The easiest way to deploy this app is via [Vercel](https://vercel.com/new), from the creators of Next.js.
 Refer to the [deployment documentation](https://nextjs.org/docs/deployment) for custom environments.
-
----
 
 ---
 
