@@ -10,7 +10,6 @@
 
 <p align="center">
   <a href="https://your-live-demo-link.com"><strong>🌐 Live Demo</strong></a> •
-  <a href="https://github.com/yourusername/ai-webpage-qa"><strong>📦 Source Code</strong></a>
 </p>
 
 ---
@@ -95,10 +94,6 @@ The easiest way to deploy this app is via [Vercel](https://vercel.com/new), from
 Refer to the [deployment documentation](https://nextjs.org/docs/deployment) for custom environments.
 
 ---
-
-## 🙏 Acknowledgements
-
-Thanks to the open-source ecosystem, especially **OpenAI**, **Vercel**, and the **Next.js** community, for making powerful web applications easier to build and scale.
 
 ---
 
